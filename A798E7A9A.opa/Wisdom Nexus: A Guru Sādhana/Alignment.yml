@@ -1,0 +1,19 @@
+segment_sources:
+  P00FC4FBA:
+    type: origin_type
+    relation: translation
+    language: en
+  PBC60C999:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  5aa07caa1e0845e1a211cf19c52c037c:
+    P00FC4FBA: 15ab65bdddee41449dcaffa96d7e1dae
+    PBC60C999: 9fd49ebb6b2142859ea2d39653ae59df
+  931dc6a55f1b494d83bea071e4358365:
+    P00FC4FBA: 495f655847bc42e7847591e3021156c7
+    PBC60C999: a896892c64d5463aaaf3525db6a89d14
+  54327a20c8b84871b36bad1fe81217e4:
+    P00FC4FBA: 23ae3a99804740c797946b79edd8757c
+    PBC60C999: 9ebc08bf19b14dc9a609a762b779fda4
